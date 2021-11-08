@@ -1,0 +1,6 @@
+Downloading and preparing dataset csv/default to /remote-home/pjliu/.cache/huggingface/datasets/csv/default-6b57555c3278d840/0.0.0/bf68a4c4aefa545d0712b2fcbb1b327f905bbe2f6425fbc5e8c25234acb9e14a...
+Dataset csv downloaded and prepared to /remote-home/pjliu/.cache/huggingface/datasets/csv/default-6b57555c3278d840/0.0.0/bf68a4c4aefa545d0712b2fcbb1b327f905bbe2f6425fbc5e8c25234acb9e14a. Subsequent calls will reuse this data.
+Epoch: [0]: Loss 5.2897
+knn_train.pt is saved.
+knn_valid.pt is saved.
+knn_test.pt is saved.

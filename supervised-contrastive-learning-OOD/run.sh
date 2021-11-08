@@ -1,0 +1,3 @@
+#python train_acl.py --dataset CLINC --proportion 100 --mode both --setting gda --experiment_No vallian --ind_pre_epoches 20 --supcont_pre_epoches 10 --sup_cont --norm_coef 0 --cuda
+#python train.py  --dataset CLINC_OOD --proportion 100 --mode both --setting gda --experiment_No vallian --ind_pre_epoches 30 --supcont_pre_epoches 10 --sup_cont --norm_coef 0.1 --learning_rate 0.001 --use_bert --cuda
+python train.py --save_embed --dataset CLINC_OOD --proportion 100 --mode both --setting gda --experiment_No vallian --ind_pre_epoches 1 --supcont_pre_epoches 1 --norm_coef 0.1 --learning_rate 0.001 --use_bert --cuda
